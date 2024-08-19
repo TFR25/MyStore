@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: "1",
     name: "Gravity Ceramic mug",
     image: "/images/GravityMug.png",
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: "2",
     name: "Fishing Fanatic Mug",
     image: "/images/FishingFanatic.png",
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: "3",
     name: "Premium Crewneck Fishermen T-shirt for Nature and Fishermen Lovers",
     image: "/images/FishingTee.png",
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: "4",
     name: "Eco-conscious Polyester Fishermen Pullover Hoodie for Nature and Fishermen Lovers",
     image: "/images/FishingHoodie.png",
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: "5",
     name: "Eco-conscious Polyester Unisex Nature Lovers Pullover Hoodie",
     image: "/images/UpsideDownHoodie.png",
     description:
@@ -65,7 +60,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: "6",
     name: "Eco-conscious Polyester Unisex Nature Lovers T-Shirt",
     image: "/images/UpsideDownTee.png",
     description:
